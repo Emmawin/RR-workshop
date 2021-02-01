@@ -1,6 +1,6 @@
 # Template on Workshop for Reproducible research at ENSGSI
 
-**Name of the student:** Winnicki
+**Name of the student:** Winnicki <br>
 **Date:** 01/02/2021
 **Course:** 3AI
 
